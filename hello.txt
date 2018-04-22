@@ -1,3 +1,4 @@
 hello git
 hello github
 hello yama
+addの説明を追加
