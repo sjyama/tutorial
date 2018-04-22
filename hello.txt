@@ -2,3 +2,4 @@ hello git
 hello github
 hello yama
 addの説明を追加
+commitの説明を追加
